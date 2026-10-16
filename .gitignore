@@ -68,3 +68,5 @@ typings/
 
 # Use yarn.lock, not npm
 package-lock.json
+
+.DS_Store
